@@ -36,7 +36,7 @@ function Voitures(ligne,x,v){
 		var posX = x;
 		var posY = 50;
 		var image = new Image();
-		image.src = "Images/Voiture5.png";
+		image.src = "Images/Voiture4.png";
 		var l = ligne;
 		var vit = v;
 		var larg = 23;
